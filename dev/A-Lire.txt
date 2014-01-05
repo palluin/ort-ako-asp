@@ -1,0 +1,2 @@
+Racine du développement.
+Attention à travailler dans des dossiers différents pour les dev perso et faire un dossier pour le dev projet.
